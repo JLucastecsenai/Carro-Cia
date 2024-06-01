@@ -1,0 +1,61 @@
+p, h1, h2, h3{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.titulo1{
+    color: #d6960e;
+}
+.cabecalho{
+    padding-top: 40px;
+    background-color: black;
+    text-align: center;
+    padding-bottom: 50px;
+    border-bottom: #d6960e solid 2px;
+}
+.link_cabe{
+    padding-left: 5px;
+    padding-right: 5px;
+    color: #d6960e;
+}
+.banner{
+    width: 100%;
+}
+.Sobre{
+    text-align: center;
+    margin-top: 120px;
+}
+.carro_venda{
+    width: 398px;
+}
+.texto1{
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: justify;
+    line-height: 1.5;
+}
+.consultores{
+    text-align: center;
+    margin-top: 150px;
+}
+.img_consul{
+    width: 250px;
+}
+span{
+    color: #d6960e;
+}
+.localizacao{
+    text-align: center;
+    margin-top: 150px;
+}
+.link{
+    text-decoration: none;
+    border-bottom: #d6960e 2px solid;
+}
+.bloco_preto{
+    text-align: center;
+    border: black solid 2px;
+    background-color: black;
+    color: white;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 10px;
+}
